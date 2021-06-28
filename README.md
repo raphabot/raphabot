@@ -6,7 +6,7 @@
 - 💬 Ask me about Cloud, DevOps, Security, and Video-Games :sparkling_heart:
 - :thought_balloon: This is my Blog https://blog.raphabot.com 
 - :sound: I speak Brazilian Portuguese, English, and sometimes I like to embarrass myself with some Spanish :flushed:
-- 📫 How to reach me: You can DM at at my Twitter @raphabot or [booktimewith.raphabot.com](bookstimewith.raphabot.com)
+- 📫 How to reach me: You can DM at at my Twitter @raphabot or [booktimewith.raphabot.com](http://bookstimewith.raphabot.com)
 
 
 <p>
