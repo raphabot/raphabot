@@ -1,6 +1,6 @@
 ### Hi there, my name is Raphael Bottino👋
 
-- 💻 I’m a community manager at [Skycrafters](https://community.skycrafters.io)
+- 💻 I’m a Solutions Architect at [Trend Micro](https://trendmicro.com)
 - :books: I’m currently everything all the time!
 - :muscle: I’m looking to collaborate on all things open source and cloud
 - 💬 Ask me about Cloud, DevOps, Security, and Video-Games :sparkling_heart:
