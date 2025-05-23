@@ -1,12 +1,12 @@
 ### Hi there, my name is Raphael Bottino👋
 
-- 💻 I’m a Solutions Architect at [Trend Micro](https://trendmicro.com)
+- 💻 I’m a Cybersecurity professional, dedicated to Cloud, AI and Application security.
 - :books: I’m currently everything all the time!
-- :muscle: I’m looking to collaborate on all things open source and cloud
-- 💬 Ask me about Cloud, DevOps, Security, and Video-Games :sparkling_heart:
-- :thought_balloon: This is my Blog https://blog.raphabot.com 
-- :sound: I speak Brazilian Portuguese, English, and sometimes I like to embarrass myself with some Spanish :flushed:
-- 📫 How to reach me: You can DM at at my Twitter @raphabot or [booktimewith.raphabot.com](http://booktimewith.raphabot.com)
+- :muscle: I’m looking to collaborate on all things cybersecurity open source
+- 💬 Ask me about AI Security, AppSec, and Cloud Security :sparkling_heart:
+- :thought_balloon: This is my webpage https://raphabot.com 
+- :sound: I speak Brazilian Portuguese, English, and sometimes I like to embarrass myself with some Spanish
+- 📫 How to reach me: Send me a message over my [LinkedIn](https://www.linkedin.com/in/rbottino/)
 
 
 <p>
